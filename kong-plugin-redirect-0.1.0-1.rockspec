@@ -1,5 +1,5 @@
 package = "kong-plugin-redirect"
-version = "0.1.0-0"
+version = "0.1.0-1"
 source = {
    url = "git://github.com/prashanth-unity/kong-plugin-redirect",
    dir = "kong-plugin-redirect"
