@@ -3,7 +3,7 @@ local BasePlugin = require "kong.plugins.base_plugin"
 local RedirectHandler = BasePlugin:extend()
 
 RedirectHandler.PRIORITY = 999
-RedirectHandler.VERSION = "0.1.0"
+RedirectHandler.VERSION = "0.1.0-0"
 
 function RedirectHandler:new()
     RedirectHandler.super.new(self, "kong-plugin-redirect")
