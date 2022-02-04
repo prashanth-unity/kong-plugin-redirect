@@ -9,7 +9,7 @@ return {
         redirect_url = {
             type     = "string",
             required = true,
-            default  = "https://github.com/domecloud/kong-plugin-redirect"
+            default  = "https://github.com/prashanth-unity/kong-plugin-redirect"
         }
     }
 }
